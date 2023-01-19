@@ -10,4 +10,4 @@ style="width:6.45625in;height:3.42569in" />
 
 ### Student 3: Tarun Singh
 
-<a href="https://nithujansel.github.io/FarmLabCameraSlider/">Docsify Page</a><br>
+<a href="https://nithujansel.github.io/CameraSliderFarmLabAI/#/">Docsify Page</a><br>
